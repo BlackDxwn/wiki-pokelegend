@@ -21,7 +21,7 @@ Ce qui fait des fusions que ce sont des pokémons si particuliers est sans doute
 
 * L'esthétique : Découvrez les <mark style="color:blue;">**sprites uniques**</mark> des fusions ! Chaque pokémon fusionné en possède deux : sa version classique et l'autre chromatique. Arriverez-vous à toutes les collectionner ?  👀 
 * La <mark style="color:blue;">**stratégie Pokémon**</mark> : Les amateurs de combats pokémon ne seront pas déçus ! Par une fusion de deux pokémons, comptez sur le fait que leurs talents, leurs attaques, leurs types, leurs statistiques ainsi que toutes les autres caractéristiques propres aux pokémons seront également fusionnés !
-* Le lore : Chaque pokémon a <mark style="color:blue;">**une histoire**</mark>, <mark style="color:blue;">**son histoire**</mark>.. En fusionnant deux pokémons, qui sait laquelle de celle-ci peut être ainsi créée !
+* Le lore : Chaque pokémon a <mark style="color:blue;">**une histoire**</mark>, <mark style="color:blue;">**son histoire**</mark>.. En fusionnant deux pokémons, qui sait laquelle peut être ainsi créée !
 * ...
 
 ## <mark style="color:blue;">**Comment obtenir des fusions ?**</mark>
