@@ -32,14 +32,14 @@ Ce qui fait des fusions que ce sont des pokémons si particuliers est sans doute
 
 * L'achat du grade fusion : En vous procurant ce grade (disponible via le <mark style="color:blue;">**`/grades`**</mark> en jeu), vous aurez la possibilité de prendre la fusion de votre choix grâce au <mark style="color:blue;">**ticket fusion**</mark> qui vous sera offert. Vous disposez du double de pourcentage de chance d'avoir un shiny par cette méthode (soit <mark style="color:blue;">**20%**</mark>).
 
-**L'achat de ce grade, contrairement aux autres, n'est pas à usage unique. Vous avec donc la possibilité de vous l'octroyer autant de fois que vous le souhaitez.** 🚀
+🚀 **L'achat de ce grade, contrairement aux autres, n'est pas à usage unique. Vous avec donc la possibilité de vous l'octroyer autant de fois que vous le souhaitez.** 🚀
 
 ## <mark style="color:blue;">**Des fusions, des fusions.. Oui mais lesquelles ?**</mark>
 
 🔎 **Actuellement sur le serveur, on en décompte 12 toutes plus fascinantes les une que les autres :** 🔎
 
 | <mark style="color:blue;">**Image**</mark> | <mark style="color:blue;">**Fusion**</mark>     | <mark style="color:blue;">**Description**</mark> | <mark style="color:blue;">**HP**</mark>  | <mark style="color:blue;">**ATK**</mark> | <mark style="color:blue;">**DEF**</mark> | <mark style="color:blue;">**SPDEF**</mark> | <mark style="color:blue;">**SPATK**</mark> | <mark style="color:blue;">**SPD**</mark> |
-|-------|------------|-------------|-----|-----|-----|-------|-------|-----|
+|:-----:|:------:|:------------:|:--:|:--:|:--:|:----:|:----:|:--:|
 | <figure><img src="../Fusions_BD/Amphishadow.png" alt="" width="300" height="300"></figure>                      |  <mark style="color:blue;">**Amphi**</mark><mark style="color:darkblue;">**shadow**</mark>        |  Amphinobi et Marshadow, de type Eau/Spectre           | 90   | 125   | 80   | 103    | 90    | 125   |
 | <figure><img src="../Fusions_BD/Dardevoir.png" alt="" width="300" height="300"></figure>      | <mark style="color:black;">**Dar**</mark><mark style="color:pink;">**devoir**</mark>           | Darkrai et Gardevoir, de type Ténèbres/Psy            | 70    | 90    | 90    | 135      | 115      | 125    |
 | <figure><img src="../Fusions_BD/Cizalabre.png" alt="" width="300" height="300"></figure>      | <mark style="color:green;">**Ciza**</mark><mark style="color:red;">**labre**</mark>           | Cizayox et Lugulabre, de type Insecte/Feu            | 70    | 130    | 100    | 145      | 90      | 80    |
